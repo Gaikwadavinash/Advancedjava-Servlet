@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>BookDetails</servlet-name>
+<servlet-class>test.BookDetails</servlet-class>>
+</servlet>
+<servlet-mapping>
+<servlet-name>BookDetails</servlet-name>
+<url-pattern>/pqr</url-pattern>>
+</servlet-mapping>
+<welcome-file-list>
+<welcome-file>input.html</welcome-file>
+</welcome-file-list>
+</web-app>

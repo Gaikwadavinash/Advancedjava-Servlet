@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app>
+<servlet>
+<servlet-name>ServletEmployeeRetrive</servlet-name>
+<servlet-class>test.ServletEmployeeRetrive</servlet-class>
+</servlet>
+<servlet-mapping>
+<servlet-name>ServletEmployeeRetrive</servlet-name>
+<url-pattern>/retrive</url-pattern>
+</servlet-mapping>
+<welcome-file-list>
+<welcome-file>input.html</welcome-file>
+</welcome-file-list>
+</web-app>
